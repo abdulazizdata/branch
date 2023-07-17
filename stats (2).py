@@ -360,6 +360,9 @@ def my_adder(*args, **kwargs):
         for j in kwargs.values():
             sum_all += j
     return sum_all
+y
+ty
+
 
 print(my_adder(1,2, fstn = 1, stn = 2))
 
